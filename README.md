@@ -1,174 +1,53 @@
-# just-the-docs-template
+The goal of the AudiAnnotate Audiovisual Extensible Workflow (AWE) project is to accelerate access to, promote scholarship and teaching with, and extend understanding of significant digital AV collections in the humanities.
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+Please visit https://hipstas.github.io/AudiAnnotate/ project page for examples and documentation.
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+In response to the need for a workflow that supports IIIF manifest creation, collaborative editing, flexible modes of presentation, and permissions control, the AudiAnnotate project is developing AWE, a documented workflow using the recently adopted IIIF standard for AV materials that will help libraries, archives, and museums (LAMs), scholars, and the public access and use AV cultural heritage items. We will achieve this goal by connecting existing best-of-breed, open source tools for AV management (Aviary), annotation (such as Audacity and OHMS), public code and document repositories (GitHub), and the AudiAnnotate web application for creating and sharing IIIF manifests and annotations. Usually limited by proprietary software and LAM systems with restricted access to AV, users will use AWE as a complete sequence of tools and transformations for accessing, identifying, annotating, and sharing AWE “projects” such as singular pages or multi-page exhibits or editions with AV materials. LAMs will benefit from AWE as it facilitates metadata generation, is built on W3C web standards in IIIF for sharing online scholarship, and generates static web pages that are lightweight and easy to preserve and harvest. AWE represents a new kind of AV ecosystem where the exchange is opened between institutional repositories, annotation software, online repositories and publication platforms, and all kinds of users.
 
-More specifically, the created site:
+AWE partnerships with institutions such as the American Folklife Center at the Library of Congress, Library of Congress Labs, the Furious Flower Poetry Center at James Madison University, the Fortunoff Video Archive for Holocaust Testimonies  at Yale Library, the Harry Ransom Center at the University of Texas, the Louie B. Nunn Center for Oral History at the University of Kentucky, the Woodberry Poetry Room at Harvard University, and the SpokenWeb Consortium will provide use cases to test the workflow and demonstrate its benefits to users and LAMs, thus encouraging broad use. Use cases developed through these partnerships will demonstrate the different ways that LAMs use (or don’t use) DAMs;  the wide variety of humanities materials in AV formats from poetry performances to oral histories that cultural heritage institutions hold; and the range of restrictions that users encounter, from freely available AV streamed online to materials accessible to a consortium of institutions, to artifacts that are locked down in private collections. These use cases collectively demonstrate (1) researchers annotating materials held at multiple holding institutions and presenting these annotations as a single, free-to-access project, (2) researchers with privileges annotating restricted materials but sharing annotations publicly, (3) multiple researchers working together at different holding institutions to produce annotations authored by many, and (4) a holding institution harvesting these annotations to increase the information they can provide about their AV cultural heritage artifacts. Better understanding and documenting these use cases is key to broadening the use of both IIIF and AV materials. These and other use cases will be described and shared in detail at each AWE project partner workshop, in presentations at the annual IIIF consortium and the annual DH or ACH conference, and in online documentation for scholars and the general public.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+Specifically, the AWE project will produce and share the following open source deliverables:
 
-To get started with creating a site, simply:
+Advancements to the AudiAnnotate web application that will build on and transform the application into a collaborative AV commentary publication tool that will help users produce freely-available web pages and exhibits with an embedded media player (see AWE player below), hosted on GitHub Pages.
+Plug-ins for the Aviary platform for searching AV content to expose IIIF manifests and annotations at various levels of authentication. It will also provide an interface for ingesting external manifests and user-generated annotations.
+An AWE player as a reusable, standalone piece of code that runs a media player in a browser. It will present linked annotations and media at various levels of authentication, accommodating both freely available AV and AV with restricted use/copyright.
+Documentation for all incorporated tools as well as use cases (described below) that will illustrate the workflow.
+A workshop on AWE with training in creating IIIF AV annotations and AV exhibits.
+Scholarship on current user trends and ethical data practices with AV materials in collecting institutions including a report on the interviews and surveys AWE will conduct with users, conference presentations, and scholarly articles in Digital Humanities journals.
+Because AWE facilitates a IIIF ecosystem that can function in accordance with but outside of under-resourced LAMs, it can extend the capabilities of users and institutions beyond current workflows. Collectively, these deliverables will allow institutions, scholars, students, and the public to access, annotate, and share AV commentary and exhibits in a free and standardized way for the first time. 
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+People: Clement, Brumfield Labs, Aviary — the AWE team — are uniquely positioned to collaborate and extend their existing areas of expertise and current projects in developing a sustainable solution for annotating AV and generating the IIIF AV objects that will facilitate access to, use of, and the long-term preservation of AV. They have an extensive and proven record of collaboration and success. Brumfield Labs and the AVP Aviary team have deep expertise in IIIF and AV preservation and access, respectively, with much experience collaborating with cultural heritage institutions that typically do not have the resources to hire experts with their technical background.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
+AWE Team:
 
-After completing the creation of your new site on GitHub, update it as needed:
+Tanya Clement, Associate Professor, UT Austin
+Ben Brumfield, Brumfield Labs
+Sara Brumfield, Brumfield Labs
+Shawn Averkamp, AVP
+Bert Lyons, AVP
+Amy Rudersdorf, AVP
+Zoe Bursztajn-Illingworth, Post-Doctoral Fellow, UT Austin
+Bethany Radcliffe, Graduate Research Assistant, UT Austin
+Kylie Warkentin, Undergraduate Research Assistant, UT Austin
+Zoe Bursztajn-Illingworth, Graduate Research Assistant, UT Austin
+Janet Reinschmidt, Graduate Research Assistant, UT Austin
+Evan Sizemore, Graduate Research Assistant, James Madison University
+Kayleigh Voss, Graduate Research Assistant, UT Austin
+Trent Wintermeier, Graduate Research Assistant, UT Austin
+Project Partners:
 
-## Replace the content of the template pages
+Doug Boyd, Director. Louie B. Nunn Center for Oral History Special Collections 
+Jason Camlot, Professor and University Research Chair in Literature and Sound Studies, Concordia University, Montreal; PI, SpokenWeb Research Program 
+Christina Davis, Curator of the Woodberry Poetry Room, Houghton Library, Harvard University
+Meghan Ferriter, Senior Innovation Specialist, Library of Congress Digital Innovation Lab (LC Labs) 
+Steven Holloway, Director of Metadata Strategies, James Madison University 
+Jim Kuhn, Associate Director, Harry Ransom Center, UT Austin 
+Stephen Naron, Director of the Fortunoff Video Archive for Holocaust Testimonies, Yale Libraries
+Advisory Board
 
-Update the following files to your own content:
-
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
-
-## Changing the version of the theme and/or Jekyll
-
-Simply edit the relevant line(s) in the `Gemfile`.
-
-## Adding a plugin
-
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
-
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
-
-- Add the following to your site's `Gemfile`:
-
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
-
-- And add the following to your site's `_config.yml`:
-
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
-
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
-
-## Publishing your site on GitHub Pages
-
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
-
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    theme: just-the-docs
-
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
-
-    aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
-    ```
-
-2.  Push your updated `_config.yml` to your site on GitHub.
-
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-## Hosting your docs from an existing project repo
-
-You might want to maintain your docs in an existing project repo. Instead of creating a new repo using the [just-the-docs template](https://github.com/just-the-docs/just-the-docs-template), you can copy the template files into your existing repo and configure the template's Github Actions workflow to build from a `docs` directory. You can clone the template to your local machine or download the `.zip` file to access the files.
-
-### Copy the template files
-
-1.  Create a `.github/workflows` directory at your project root if your repo doesn't already have one. Copy the `pages.yml` file into this directory. GitHub Actions searches this directory for workflow files.
-
-2.  Create a `docs` directory at your project root and copy all remaining template files into this directory.
-
-### Modify the GitHub Actions workflow
-
-The GitHub Actions workflow that builds and deploys your site to Github Pages is defined by the `pages.yml` file. You'll need to edit this file to that so that your build and deploy steps look to your `docs` directory, rather than the project root.
-
-1.  Set the default `working-directory` param for the build job.
-
-    ```yaml
-    build:
-      runs-on: ubuntu-latest
-      defaults:
-        run:
-          working-directory: docs
-    ```
-
-2.  Set the `working-directory` param for the Setup Ruby step.
-
-    ```yaml
-    - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1'
-          bundler-cache: true
-          cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
-    ```
-
-3.  Set the path param for the Upload artifact step:
-
-    ```yaml
-    - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: "docs/_site/"
-    ```
-
-4.  Modify the trigger so that only changes within the `docs` directory start the workflow. Otherwise, every change to your project (even those that don't affect the docs) would trigger a new site build and deploy.
-
-    ```yaml
-    on:
-      push:
-        branches:
-          - "main"
-        paths:
-          - "docs/**"
-    ```
-
-## Licensing and Attribution
-
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
-
-The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
-[MIT License]: https://en.wikipedia.org/wiki/MIT_License
-[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
-[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+Aaron Choate, Director of Digital Strategies, University of Texas at Austin Libraries 
+Jason Camlot, Professor and University Research Chair in Literature and Sound Studies, Concordia University, Montreal; PI, SpokenWeb Research Program
+Jon Dunn, Assistant Dean for Library Technologies at Indiana University, Co-Chair, IIIF A/V Technical Specification Group; Director of Avalon Media System 
+Jennifer Guiliano, University of Indiana University – Purdue University Indianapolis and Director, Humanities Intensive Learning and Training – HILT 
+Virginia Millington, Archivist, StoryCorps
+Support: AWE has been generously funded by the Andrew W. Mellon Foundation
