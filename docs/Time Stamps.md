@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Annotation Guide
+title: Time Stamps
 parent: AVAnnotate for Researchers
 nav_order: 3
 ---
