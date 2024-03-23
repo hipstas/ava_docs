@@ -1,5 +1,6 @@
 ---
 layout: default
-title: thirdpage
-nav_order: 4
+title: Annotation Guide
+parent: AVAnnotate for Researchers
+nav_order: 2
 ---
