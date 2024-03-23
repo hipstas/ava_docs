@@ -2,7 +2,7 @@
 layout: default
 title: Annotation Guide
 parent: AVAnnotate for Researchers
-nav_order: 2
+nav_order: 3
 ---
 # H1Time Stamps
 ## H2What is a time stamp?
