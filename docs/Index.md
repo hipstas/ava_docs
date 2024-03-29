@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layers
+title: Index
 parent: AVAnnotate for Researchers
 nav_order: 6
 ---
