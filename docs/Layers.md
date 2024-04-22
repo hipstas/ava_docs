@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layerss
+title: Layers
 parent: How to Use AVAnnotate
 nav_order: 4
 ---
