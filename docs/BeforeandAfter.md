@@ -8,17 +8,26 @@ nav_order: 8
 <td> 
 Before Teaching
 <br>
-row 1 
+Ask students to make a free GitHub account and to bring headphones to class if the recording being annotated has sound 
 <br>
-row 2 
+Communicate a clear learning objective for using AVAnnotate and how you're situating the process of annotating AV within the larger class goals
 <br>
+Introduce students to the artifact(s) they’ll be annotating and any conceptual frameworks or key concepts that will guide their annotation process 
+<br>
+Help students understand the organizing elements of AVAnnotate: layers, index, the definition of an annotation, etc. 
+<br>
+Give students as much information in advance as possible! This could include the direct link to the recording file, the layers to be used, a raw annotation spreadsheet, and a link to the How to Use page including our annotation template.
 </td>
 <td> 
 
 After Teaching
 <br>
-row 1 
+Debrief the annotation process with your students and what it has revealed about the recording that they hadn't noticed before 
 <br>
-row 2 
+Consider facilitating discussion about the effects of slowing down to annotate, and their decision-making processes for layers, index terms, and annotations
+<br>
+Discuss the evaluation criteria (if any) with students. How will their projects be continued or assessed? 
+<br>
+Direct students to our [Contact Us](https://av-annotate.org/contact-us/) page if you need troubleshooting support
 <br>
 </td>
