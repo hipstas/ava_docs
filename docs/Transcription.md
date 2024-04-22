@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sample Lesson Plans
+title: Transcription Resource Bank
 parent: Teaching with AVAnnotate
 nav_order: 5
 ---
