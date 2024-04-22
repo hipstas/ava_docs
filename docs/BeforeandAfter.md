@@ -7,7 +7,7 @@ nav_order: 8
 <table style="width:100%">
 <td> 
 
-  # Before Teaching
+# Before Teaching
 <br>
 Ask students to make a free GitHub account and to bring headphones to class if the recording being annotated has sound 
 <br>
@@ -23,9 +23,8 @@ Ask students to make a free GitHub account and to bring headphones to class if t
 <br>
 * Give students as much information in advance as possible! This could include the direct link to the recording file, the layers to be used, a raw annotation spreadsheet, and a link to the quick-start [How to Use](https://av-annotate.org/how-to-use/) page
 </td>
-<td>
 
-  # After Teaching
+# After Teaching
 <br>
 Debrief the annotation process with your students and what it has revealed about the recording that they hadn't noticed before 
 <br>
