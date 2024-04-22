@@ -5,17 +5,11 @@ parent: Teaching with AVAnnotate
 nav_order: 7
 ---
 
-The following list of standard film terms for annotation was created by Zoe Bursztajn-Illingworth and Janet Reinschmidt based on handouts for two University of Texas at Austin courses: E314J: Literature and Film-Form, Medium, and Politics Spring 2021 (Instructor Zoe Bursztajn-Illingworth) and RTF385K: Film Noir, Spring 2021 (Professor Noah Isenberg, Teaching Assistant Janet Reinschmidt).
+_The following list of standard film terms for annotation was created by Zoe Bursztajn-Illingworth and Janet Reinschmidt for two University of Texas at Austin courses: E314J: Literature and Film-Form, Medium, and Politics, Spring 2021 (Instructor Zoe Bursztajn-Illingworth) and RTF385K: Film Noir, Spring 2021 (Professor Noah Isenberg, Teaching Assistant Janet Reinschmidt)._
 
-To create a film annotation project using AVAnnotate, students will create layers to organize or group their annotations according to their research purposes. The following list includes terms you or your students may choose to use as layers when annotating films. 
+# To create a film annotation project using AVAnnotate, students will create layers (categories of types of annotations) to organize their annotations according to their research questions or assignment purposes. The following list includes terms you or your students may choose to use as layers when annotating films. This list is intended to be used as suggestions rather than prescriptions for research purposes, and should be adapted or modified according to the learning objectives of your course.
 
-film researchers who have made this list have found it useful to create layers such as–intertitles, effects, cinematography, editing, sound, and dialogue–and then use the more specific films terms below as well as transcribing dialogue or intertitles in individual annotations. This list and the above categories corresponding to layers are intended to be suggestions rather than prescriptions for research purposes; the types of film annotation and terms necessary for scholarship, preservation, and pedagogy will likely differ. Similarly, some researchers may need to note the duration of shots, intertitles, or scenes in their annotations while others may input markers on a moment by moment basis.
-
-You may also use the alphabetized list below as a glossary to clarify the meaning of film terms in annotations you find on AudiAnnotate.
-
-To learn more about how to describe and annotate film form using standard terminology please consult Film Art: An Introduction by David Bordwell and Kristin Thompson and Yale’s Film Analysis Website
-
-Standard Film and Video Terminology
+# Standard Film and Video Terminology
 
 Aerial shot: A camera shot filmed in an exterior location from far above the camera’s object; from a bird’s-eye view.
 
@@ -138,3 +132,6 @@ Tracking Shot: A shot in which the camera follows the subject being recorded
 Voiceover: Narration from an off-screen speaker, often conveys a character’s thoughts.
 
 Zoom: The movement of a lens of variable focal length that can be changed during the shot. It enables a smooth transition from wide-angle to telephoto shots without actually moving the camera.
+
+To learn more about how to describe and annotate film form using standard terminology please consult "Film Art: An Introduction" by David Bordwell and Kristin Thompson and Yale’s Film Analysis Website
+
