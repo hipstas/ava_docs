@@ -18,8 +18,7 @@ Help students understand the organizing elements of AVAnnotate: layers, index, t
 <br>
 Give students as much information in advance as possible! This could include the direct link to the recording file, the layers to be used, a raw annotation spreadsheet, and a link to the quick-start [How to Use](https://av-annotate.org/how-to-use/) page
 </td>
-<td> 
-
+<td>
 After Teaching
 <br>
 Debrief the annotation process with your students and what it has revealed about the recording that they hadn't noticed before 
