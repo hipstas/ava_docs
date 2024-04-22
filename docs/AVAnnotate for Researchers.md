@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AVAnnotate for Researchers
+title: How to Use AVAnnotate
 nav_order: 3
 has_children: true
 ---
