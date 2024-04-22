@@ -5,10 +5,20 @@ parent: Teaching with AVAnnotate
 nav_order: 8
 ---
 <table style="width:100%">
-<td> <td width="50%">
+<td> 
 Before Teaching
+<br>
+row 1 
+<br>
+row 2 
+<br>
 </td>
 <td> 
-<td width="50%">
+
 After Teaching
+<br>
+row 1 
+<br>
+row 2 
+<br>
 </td>
