@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Time Stamps
-parent: AVAnnotate for Researchers
+parent: How to Use AVAnnotate
 nav_order: 3
 ---
 # Time Stamps
