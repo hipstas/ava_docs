@@ -43,9 +43,9 @@ Direct students to our [Contact Us](https://av-annotate.org/contact-us/) page if
 
 | Before the Lesson  | After the Lesson |
 | ------------- | ------------- |
-| Communicate a clear learning objective for using AVAnnotate and how you're situating the process of annotating AV within the larger class goals
-  | Debrief the annotation process with your students and what it has revealed about the recording that they hadn't noticed before 
-  |
+| Communicate a clear learning objective for using AVAnnotate and how you're situating the process of annotating AV within the larger class goals | Debrief the annotation process with your students and what it has revealed about the recording that they hadn't noticed before |
+
+   
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
