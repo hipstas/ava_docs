@@ -3,6 +3,7 @@ layout: default
 title: Sample Lesson Plans
 parent: Teaching with AVAnnotate
 nav_order: 7
+has_children: true
 ---
 
 _The following list of standard film terms for annotation was created by Zoe Bursztajn-Illingworth and Janet Reinschmidt for two University of Texas at Austin courses: E314J: Literature and Film-Form, Medium, and Politics and RTF385K: Film Noir, Spring 2021._
