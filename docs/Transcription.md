@@ -4,6 +4,20 @@ title: Transcription Resource Bank
 parent: Teaching with AVAnnotate
 nav_order: 5
 ---
+
+# Transcription Conventions
+[SUNY – The Walking Around Project Transcription Guidelines
+](http://www.psychology.sunysb.edu/sbrennan-/wacpublic/Transcription%20Guidelines.pdf)Explains how to work with recordings via Audacity, including steps and photos. There are transcription guidelines that explain how to structure speech and how to transcribe and spell fillers, noises, interjections, and partial words. It explains how to name and save the file for future access.
+<br><br>
+[PAC Programme – Phonology of Contemporary English
+](https://www.pacprogramme.net/Transcription-conventions)Lists transcription conventions similar to a style guide. These conventions seek to develop uniform transcriptions for researchers so to better compare data. This includes punctuation, overlapping turns, repetition, and other features of spoken English and spelling.
+<br><br>
+[Smithsonian – Transcribing Audio Collections Instructions
+](https://transcription.si.edu/audioinstructions)Best for navigating transcription within collections. Offers video tutorials on inserting timestamps and getting started with TC sound projects. Includes information on speaker sounds, background noise, interruptions, and unknowns. There is instructions for navigating the collections held at the Smithsonian
+<br><br>
+
+---
+
 # General Resources
 [University of Michigan – Audio Transcription Resources](https://guides.lib.umich.edu/c.php?g=839924&p=6982326)
 Includes guidelines alongside a comparative table of audio transcription services, broken down by accuracy, ease of use, cost, response time, editing time, and other notes. Includes step-by-step how to use each service. The services use AI or human transcription.
@@ -43,13 +57,5 @@ Thorough guide for transcription, file formatting, metadata, hardware and softwa
 
 ---
 
-# Transcription Conventions
-[SUNY – The Walking Around Project Transcription Guidelines
-](http://www.psychology.sunysb.edu/sbrennan-/wacpublic/Transcription%20Guidelines.pdf)Explains how to work with recordings via Audacity, including steps and photos. There are transcription guidelines that explain how to structure speech and how to transcribe and spell fillers, noises, interjections, and partial words. It explains how to name and save the file for future access.
-<br><br>
-[PAC Programme – Phonology of Contemporary English
-](https://www.pacprogramme.net/Transcription-conventions)Lists transcription conventions similar to a style guide. These conventions seek to develop uniform transcriptions for researchers so to better compare data. This includes punctuation, overlapping turns, repetition, and other features of spoken English and spelling.
-<br><br>
-[Smithsonian – Transcribing Audio Collections Instructions
-](https://transcription.si.edu/audioinstructions)Best for navigating transcription within collections. Offers video tutorials on inserting timestamps and getting started with TC sound projects. Includes information on speaker sounds, background noise, interruptions, and unknowns. There is instructions for navigating the collections held at the Smithsonian
+
 
