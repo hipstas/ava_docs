@@ -38,3 +38,10 @@ Discuss the evaluation criteria (if any) with students. How will their projects 
 Direct students to our [Contact Us](https://av-annotate.org/contact-us/) page if you need troubleshooting support
 <br>
 </td>
+
+
+
+| Before the Lesson  | After the Lesson |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
