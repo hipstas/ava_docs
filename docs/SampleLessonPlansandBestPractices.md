@@ -5,7 +5,7 @@ parent: Teaching with AVAnnotate
 nav_order: 7
 ---
 
-_The following list of standard film terms for annotation was created by Zoe Bursztajn-Illingworth and Janet Reinschmidt for two University of Texas at Austin courses: E314J: Literature and Film-Form, Medium, and Politics, Spring 2021 (Instructor Zoe Bursztajn-Illingworth) and RTF385K: Film Noir, Spring 2021 (Professor Noah Isenberg, Teaching Assistant Janet Reinschmidt)._
+_The following list of standard film terms for annotation was created by Zoe Bursztajn-Illingworth and Janet Reinschmidt for two University of Texas at Austin courses: E314J: Literature and Film-Form, Medium, and Politics and RTF385K: Film Noir, Spring 2021._
 
 To create a film annotation project using AVAnnotate, students will create layers (categories of types of annotations) to organize their annotations according to their research questions or assignment purposes. The following list includes terms you or your students may choose to use as layers when annotating films. This list is intended to be used as suggestions rather than prescriptions for research purposes, and should be adapted or modified according to the learning objectives of your course.
 
