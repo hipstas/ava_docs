@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layers
+title: Transcription Guidelines
 parent: Teaching with AVAnnotate
 nav_order: 6
 ---
