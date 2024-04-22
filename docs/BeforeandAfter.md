@@ -29,9 +29,12 @@ Ask students to make a free GitHub account and to bring headphones to class if t
 <br>
 Debrief the annotation process with your students and what it has revealed about the recording that they hadn't noticed before 
 <br>
+<br>
 Consider facilitating discussion about the effects of slowing down to annotate, and their decision-making processes for layers, index terms, and annotations
 <br>
+<br>
 Discuss the evaluation criteria (if any) with students. How will their projects be continued or assessed? 
+<br>
 <br>
 Direct students to our [Contact Us](https://av-annotate.org/contact-us/) page if you need troubleshooting support
 <br>
