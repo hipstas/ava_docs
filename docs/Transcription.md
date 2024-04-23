@@ -5,7 +5,7 @@ parent: Teaching with AVAnnotate
 nav_order: 5
 ---
 
-# Transcription Conventions
+## Transcription Conventions
 [SUNY – The Walking Around Project Transcription Guidelines
 ](http://www.psychology.sunysb.edu/sbrennan-/wacpublic/Transcription%20Guidelines.pdf)Explains how to work with recordings via Audacity, including steps and photos. There are transcription guidelines that explain how to structure speech and how to transcribe and spell fillers, noises, interjections, and partial words. It explains how to name and save the file for future access.
 <br><br>
@@ -18,7 +18,7 @@ nav_order: 5
 
 ---
 
-# General Resources
+## General Resources
 [University of Michigan – Audio Transcription Resources](https://guides.lib.umich.edu/c.php?g=839924&p=6982326)
 Includes guidelines alongside a comparative table of audio transcription services, broken down by accuracy, ease of use, cost, response time, editing time, and other notes. Includes step-by-step how to use each service. The services use AI or human transcription.
 <br><br>
@@ -31,7 +31,7 @@ Offers transcription practices that are useful for both deaf and blind. Useful f
 
 ---
 
-# Oral History
+## Oral History
 [Baylor University – Institute for Oral History: Style Guide](https://library.web.baylor.edu/oralhistory)
 Thorough style guidelines for beginners. It explains the common issues and important distinctions to make while transcribing audio. The style guide includes abbreviations, capitalization, addresses, crutch words, division of words, false starts, feedback, grades, incomplete sentences, and more. It offers helpful visual examples.
 <br><br>
@@ -50,7 +50,7 @@ Thorough guide for transcription, file formatting, metadata, hardware and softwa
 
 ---
 
-# Interviews
+## Interviews
 [Veterans History Project – Indexing and Transcribing Interviews
 ](https://www.loc.gov/programs/veterans-history-project/how-to-participate/transcribing-interviews/)Useful for beginners who are working on a project. Offers rational for transcribing and explanation of processes involving or not involving transcribing audio. This includes the relationship between the transcript and recording, how much time it should take. The length of transcript, editing the transcript, and resources for further information.
 <br><br>
