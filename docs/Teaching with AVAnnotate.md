@@ -3,7 +3,6 @@ layout: default
 title: Teaching with AVAnnotate
 nav_order: 3
 has_children: true
-has_grand_children: true
 ---
 
 AVAnnotate can be a helpful tool for teachers, archivists, and librarians facilitating use of audio and video materials. Here you’ll find pedagogical resources–including model indexes, transcription guides, and sample lesson plans–that you can use to structure the use of AV materials in your classroom. This documentation and resource bank has been designed to apply to a range of contexts, and should be considered adaptable across fields, disciplines, and educational settings. 
