@@ -2,7 +2,7 @@
 layout: default
 title: Before and After Teaching
 parent: Teaching with AVAnnotate
-nav_order: 8
+nav_order: 6
 ---
 
 | Before the Lesson  | During the Lesson | After the Lesson |
