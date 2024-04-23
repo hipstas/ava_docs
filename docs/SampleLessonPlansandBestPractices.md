@@ -4,5 +4,4 @@ title: Sample Lesson Plans
 parent: Teaching with AVAnnotate
 nav_order: 7
 has_children: true
-has_grand_children: true
 ---
