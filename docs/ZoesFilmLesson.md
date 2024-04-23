@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Film Annotation Assignment
-parent: Teaching with AVAnnotate
-grand_parent: Sample Lesson Plans
+parent: Sample Lesson Plans
+grand_parent: Teaching with AVAnnotate
 nav_order: 8
 ---
 
