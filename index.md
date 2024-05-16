@@ -4,6 +4,10 @@ layout: home
 nav_order: 1
 ---
 
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
 # AVAnnotate
 AVAnnotate is the second phase of the AudiAnnotate project, which was supported by a Mellon Foundation grant awarded in 2020. The AudiAnnotate project included the development of the free and open-source AudiAnnotate web application to easily produce freely available web projects. These projects—which resemble AV-centered “editions” or “exhibits”—are a series of web pages, hosted on GitHub, that feature a linked LAM audio or video recording that can be played in the context of user-generated commentary in time-stamped annotations alongside introductory material and an index of concepts and terms, all of which provide for searching, browsing, and organizing annotations across recordings. 
 
