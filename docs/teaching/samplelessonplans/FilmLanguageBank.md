@@ -2,7 +2,7 @@
 layout: default
 title: Sample Lesson Plans
 parent: Teaching with AVAnnotate
-grand_parent: SampleLessonPlansandBestPractices.md
+grand_parent: SampleLessonPlans.md
 nav_order: 7
 has_children: false
 ---
