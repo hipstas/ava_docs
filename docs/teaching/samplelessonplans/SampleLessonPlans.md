@@ -1,7 +1,6 @@
 ---
-title: Layout
+title: Sample Lesson Plans
 layout: default
-parent: Layout
-nav_order: 4.5
+parent: Teaching with AVAnnotate
 has_children: true
 ---
