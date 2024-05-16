@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sample Lesson Plans
+title: Film Language Bank
 parent: Teaching with AVAnnotate
 nav_order: 6
 has_children: false
