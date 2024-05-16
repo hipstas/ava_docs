@@ -1,7 +1,7 @@
 ---
+title: Assignment Description
 layout: default
-title: Sample Assignment Description
-parent: Teaching with AVAnnotate
-nav_order: 8
+parent: Sample Lesson Plans
+grand_parent: Teaching with AVAnnotate
 ---
 hshdusia
