@@ -19,6 +19,6 @@ In August 2010, the Council on Library and Information Resources and the Library
 # Contact Us
 Stay in touch! You can follow us on Twitter (@av_annotate), or join the [AV-Annotate Google Group](https://groups.google.com/u/0/g/av-annotate) for updates, conversations, and invitations to workshops and events. 
 
-_AVAnnotate Support_ avannotate@gmail.com
+_AVAnnotate Support_ avannotate [@] gmail.com
 
 _General Inquiries_ tclement [@] utexas.edu
