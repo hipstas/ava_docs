@@ -18,6 +18,6 @@ After the lesson, Zoe facilitated a conversation about students' experiences of 
 4. Did any new interpretations of the film emerge from these annotations?
 5. What is the relationship between observing film form and film analysis? 
 
-Students had varying success (approximately 70%) creating a project in the time given (a one hour and fifteen minute class period). If a student was unable to create a project, likely because of the unfamiliarity with the high-level of standardization necessary for computer readability, Zoe allowed students to submit their annotation spreadsheets, so that she could still engage with their annotations of the film and provide feedback on their annotation process. 
+Students had varying success (approximately 70%) creating a project in the time given (a one hour and fifteen minute class period). If a student was unable to create a project, likely because of the unfamiliarity with the high-level of standardization necessary for computer readability, Zoe allowed students to submit their annotation spreadsheets, so that she could still engage with their annotations of the film and provide feedback on their annotation process. To grade this assignment, Zoe used a simple complete/incomplete criteria and offered feedback to students about film vocabulary or their analysis of the film in Canvas. Doing so provided a streamlined way of identifying where students needed support, especially in their use of film terms which are new to most students in a literature course. 
 
 
