@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layers and Index
+title: Choosing Layer and Index Terms
 parent: How to Use AVAnnotate
 nav_order: 4
 ---
