@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Layers and Index
-parent: Teaching with AVAnnotate
+parent: How to Use AVAnnotate
 nav_order: 4
 ---
 
