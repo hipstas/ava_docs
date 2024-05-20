@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to Annotating Sensitive Audio
+title: Annotating Sensitive Audio
 parent: Sample Lesson Plans
 grand_parent: Teaching with AVAnnotate
 permalink: 
