@@ -30,6 +30,23 @@ With this in mind, take some time to listen to the recording you're working with
 
 Make sure you follow your school’s guidelines for classroom work involving potentially upsetting or controversial material. While we recognize the value and necessity of having difficult conversations, we also recommend discussing class expectations repeatedly and prior to working with these types of materials. You may also choose to modify the lesson introductory materials to add the necessary context for the material your class is working with based on your class’s learning objectives. To minimize student harm and risk When working with sensitive audio, we recommend having a secondary recording for students who express a high level of discomfort to work with that may explore similar themes, but not include explicit or triggering language. 
 
+**Annotating and Reflecting**
+
+During and after a lesson, you might facilitate a group conversation about students' different approaches to the listening and annotation processes. Note that any of the responses to the questions below may become an annotation, layer, or index term for students' various AVAnnotate projects. It’s important to realize that annotating is almost always a slow and tedious process, and will likely involve listening and re-listening to an audio sample, perhaps even in multiple sessions. This may not be an easy process with any audio recording, but might be especially challenging with more sensitive audio. Focusing on a portion of the audio as suggested above can make the annotating process more digestible, as can reflecting on the process early and often, together or individually. 
+
+Here are some sample questions you may adapt to your classroom setting: 
+
+1. What characteristics or events did you hear?
+2. What stuck out to you in this recording?
+3. What did you notice about the events and the people in the recording?
+4. What did you notice about the recording itself? (Clipping, increases/decreases in volume, etc.)
+5. What are some topics or themes associated with this recording?
+6. What makes annotating this recording challenging? (volume changes in tape, emotional moments, lack of context, etc.)
+7. What context are you missing? What are you uncertain about? (location of meeting, time of day, unsure of speakers, challenging to locate context about specific events, unidentifiable noises, etc.)
+8. What might you research more in-depth as you consider this recording?
+
+In a classroom setting, students can work in groups to sort general observations and descriptions of audio into “categories” for annotation, deciding on these category titles as a group. Students can be put in groups to decide on what annotation “categories” to create annotations for and then move to working together or individually to write the accompanying annotations. For example, if students are noticing the recording's environmental sounds (like car horns or birds in the background), they might create a category for annotations pertaining to environmental sounds before splitting up to listen closely for that category to annotate. Students can use these categories to fill out the "Layer" column of the [annotation spreadsheet](https://av-annotate.org/how-to-use/).
+
 **References**
 
 This lesson plan was developed according to multiple sources, including Carello & Butler's "Practicing What We Teach: Trauma-informed Educational Practice" (2015) and materials developed by the Archives for Black Lives in Philadelphia’s (A4BLiP), particularly the “Anti-Racist Description Resources” (2020). We also consulted Pinchevski's 2 "Archive, Media, Trauma" in _On Media Memory_ (2011) and Hammond's "Culturally Responsive Teaching and The Brain: Promoting Authentic Engagement and Rigor Among Culturally and Linguistically Diverse Students" (2015). 
