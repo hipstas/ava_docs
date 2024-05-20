@@ -4,7 +4,7 @@ layout: default
 parent: Sample Lesson Plans
 grand_parent: Teaching with AVAnnotate
 ---
-_The following lesson plan was developed by Dr. Zoe Bursztajn-Illingworth in an undergraduate film course. The goal of this class session was to a) teach students how to use AVAnnotate software, and b) introduce and complete an annotation assignment titled "Annotating Film Form in Maya Deren’s Meshes of the Afternoon" using AVAnnotate. You can view [Zoe's lecture slides here](https://docs.google.com/presentation/d/1WoyhfF33s4Ze3IdF_Yl2r8r7eremfKnRMdlgELb2nvM/edit?usp=sharing)._
+_The following lesson plan was developed by Dr. Zoe Bursztajn-Illingworth for an undergraduate Film and Literature course. The goal of this class session was to a) teach students how to use AVAnnotate software, and b) introduce and complete an annotation assignment titled "Annotating Film Form in Maya Deren’s Meshes of the Afternoon" using AVAnnotate. You can view [Zoe's lecture slides here](https://docs.google.com/presentation/d/1WoyhfF33s4Ze3IdF_Yl2r8r7eremfKnRMdlgELb2nvM/edit?usp=sharing)._
 
 
 As the field of digital humanities is new for most undergraduate students, this lesson built upon Zoe's previous class meetings, wherein she contextualized the field of DH and facilitated a broader discussion of the film to be annotated (Maya Deren's 1943 _Meshes of the Afternoon_). This workshop was focused on orienting students to how they can use AVAnnotate to interact with _Meshes of the Afternoon_, and culminated with each student creating an individual AVAnnotate project hosted on their own GitHub account. 
