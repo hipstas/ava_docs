@@ -17,13 +17,8 @@ Not only do scholars have limited access to spoken word audio, but their ability
 In August 2010, the Council on Library and Information Resources and the Library of Congress issued a report titled The State of Recorded Sound Preservation in the United States: A National Legacy at Risk in the Digital Age. This report suggests that if scholars and students do not use sound archives, our cultural heritage institutions will not preserve them. Librarians and archivists need to know what scholars and students want to do with sound artifacts in order to make these collections more accessible; as well, scholars and students need to know what kinds of analysis are possible in an age of large, freely available collections and advanced computational analysis and visualization.
 
 # Contact Us
-Stay in touch! 
+Stay in touch! You can follow us on Twitter (@av_annotate), or join the [AV-Annotate Google Group](https://groups.google.com/u/0/g/av-annotate) for updates, conversations, and invitations to workshops and events. 
 
-The AV-Annotate Google Group is space for updates, conversation, and connection. Join here:
-https://groups.google.com/u/0/g/av-annotate
+_AVAnnotate Support_ avannotate@gmail.com
 
-AVAnnotate Support
-avannotate@gmail.com
-
-General Inquiries
-tclement [@] utexas.edu
+_General Inquiries_ tclement [@] utexas.edu
