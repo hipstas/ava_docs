@@ -2,7 +2,7 @@
 layout: default
 title: Index
 parent: How to Use AVAnnotate
-nav_order: 6
+nav_order: 5
 ---
 # Index
 
