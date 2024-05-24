@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Transcription Resource Bank
-parent: Teaching with AVAnnotate
-nav_order: 5
+parent: How to Use AVAnnotate
+nav_order: 7
 ---
 
 ## Transcription Conventions
