@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transcription Resource Bank
+title: Transcription Resources
 parent: How to Use AVAnnotate
 nav_order: 7
 ---
