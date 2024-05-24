@@ -2,7 +2,7 @@
 layout: default
 title: Choosing Layer and Index Terms
 parent: How to Use AVAnnotate
-nav_order: 4
+nav_order: 6
 ---
 
 In AVAnnotate, **layers** are the organizing principle for your annotations of a recording, and may be defined according to the themes, topics, or details that are guiding your interaction with the AV artifact. **Layers and annotations work together to make meaning** in an AVAnnotate project, and deciding what meaning is being communicated to an exhibit’s audience is part of the initial conceptual work required when building a project.
