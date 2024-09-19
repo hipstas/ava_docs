@@ -4,7 +4,7 @@ title: Annotations
 parent: How to Use AVAnnotate
 nav_order: 4
 ---
-## Annotations
+# Annotations
 
 ## What are annotations?
 Annotations are a basic scholarly method in the humanities for making notes within and alongside a text or artifact. Annotation is closely related to the concepts of paratext, marginalia, and mark-up since annotation always situates itself in relation to the object annotated (Clement and Fisher). What it means to annotate an artifact will look different depending on the artifact annotated. A film may be annotated by describing its editing techniques, cinematography, script, actors, or alt-text and image description for audiences with disabilities. An audio recording could be annotated based on speakers, environmental sounds, transcription, or distortion. Scholars across disciplines will annotate audiovisual artifacts with different goals in mind.
