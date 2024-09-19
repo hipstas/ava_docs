@@ -15,7 +15,7 @@ Annotation does not always involve transcription, but it can. Transcription, wri
 
 
 ## What are the different types of annotations that AVAnnotate supports?
-AVAnnotate allows users to integrate text, images, and links in the “Annotations” column. This means that annotations can take multiple forms depending on the type of project being developed.
+AVAnnotate allows users to integrate text, images, and links. This means that annotations can take multiple forms depending on the type of project being developed. Annotations that are uploaded via the Event Annotation spreadsheet will appear directly under the media player, while contextual information (like accompanying essays, additional images, etc.) can be added to different pages within a project.
 
 
 ## How long should annotations be?
