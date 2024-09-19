@@ -18,10 +18,15 @@ If an event has been recorded over multiple AV files (and you’re intending to 
 
 **Header**
 Column A: Event Label (“Interview 1”)
+
 Column B: Event Item Type (“Audio” or “Video”) 
+
 Column C: AV File Label (name for the file; create a name even if there is not an AV URL)
+
 Column D: AV File URL (optional)
+
 Column E: Event Citation (optional)
+
 Column F: Event Description (optional) 
 
 
@@ -34,9 +39,13 @@ Annotations are linked to an event as part of the upload process.
 **Note:** Annotations may overlap in time and will appear in sequence in the interface according to the earliest start time.
 
 Column A: Start Time (annotation’s start time in minutes and seconds)
+
 Column B: End Time (annotation’s end time, may be the same as start time for a point in time)
+
 Column C: Annotation (transcription, notes on environmental sounds, formal features, etc.)
+
 Column D: Tags (comma separated; if a tag belongs to multiple categories, the category is included “category: tag”)
+
 Column E: AV Label (optional if there is only one AV recording; mandatory if there is more than one AV recording) 
 
 **Tag** 
@@ -47,6 +56,7 @@ Tags could also be used to organize concepts, themes, or features that appear ac
 Note: A tag can belong to multiple categories. For example, the tag “Zora Neale Hurston” may be found in the categories “Speaker” and “Topic” (depending on the event context) or may not be categorized at all. 
 
 Column A: Tag (one tag per cell) 
+
 Column B: Category 
 
 
