@@ -2,7 +2,7 @@
 layout: default
 title: Time Stamps
 parent: How to Use AVAnnotate
-nav_order: 3
+nav_order: 4
 ---
 # Time Stamps
 ## What is a time stamp?
