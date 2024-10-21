@@ -2,7 +2,7 @@
 layout: default
 title: Annotations
 parent: How to Use AVAnnotate
-nav_order: 4
+nav_order: 5
 ---
 # Annotations
 
